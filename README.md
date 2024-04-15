@@ -6,9 +6,8 @@ This study presents the application of a super- vised BERT-GAN model to authorsh
 Due to small text corpora, linguistic obscurity, and limited availability of open-source NLP tools, authorship attribution with 
 traditional neural classifiers in this problem area is challenging. We incorporated adversarial training into an authorship 
 attribution task on Archaic Greek corpora as a means of data augmentation in a low-resource language setting. Using a BERT 
-model fine-tuned on Ancient Greek, we ex- tracted CLS tokens that the GAN’s generator could imitate, introducing more training exam- 
-ples without the need for feature extraction and text modification. Our BERT-GAN out- performs our baseline model by a small mar- gin, 
-but through our experiments, we demon- strate that employing sampling techniques for data augmentation significantly optimizes our model’s performance. 
+model fine-tuned on Ancient Greek, we ex- tracted CLS tokens that the GAN’s generator could imitate, introducing more training examples without the need for feature extraction and text modification. 
+Our BERT-GAN outperforms our baseline model by a small margin, but through our experiments, we demonstrate that employing sampling techniques for data augmentation significantly optimizes our model’s performance. 
 This approach not only pushes the boundaries of traditional literary analysis but also sets a precedent for the use of advanced machine-learning techniques in the study of ancient texts.
 
 
