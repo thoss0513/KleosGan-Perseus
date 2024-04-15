@@ -18,4 +18,9 @@ Updated versions of the code and data repeatedly failed to push to GitHub due to
 the submission deadline. Please refer to the Google Drive files instead of the GitHub repo, although all critical files are available 
 but unorganized in the GitHub. 
 
-Data is stored in Google Drive as the files are too large to store in Github
+The Modeling Notebooks are in the Model folder in Drive: 
+* best_10k_sgan_metrics_final.ipynb
+* undersampled_sgan_metrics_final (1).ipynb
+* imbalanced_sgan_metrics_final (1).ipynb
+
+Data is stored in Google Drive as the files are too large to store in Github. 
